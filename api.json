@@ -69,25 +69,25 @@
             "filterable": 1
         },
         {
-      "key": "瓜子",
-      "name": "🍉瓜子┃旭叔",
-      "type": 3,
-      "api": "./py/瓜子.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1
-    },
+            "key": "瓜子",
+            "name": "🍉瓜子┃旭叔",
+            "type": 3,
+            "api": "./py/瓜子.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1
+        },
         {
-      "key": "袋鼠",
-      "name": "🥝奇异┃旭叔",
-      "type": 3,
-      "api": "./py/袋鼠.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1
-    },
+            "key": "袋鼠",
+            "name": "🥝奇异┃旭叔",
+            "type": 3,
+            "api": "./py/袋鼠.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1
+        },
         {
             "key": "猎手",
             "name": "🦊火狐┃旭叔",
@@ -199,7 +199,7 @@
             "ext": {
                 "site": [
                     "http://38.76.197.172:12521",
-                    "http://103.45.162.207:12512"
+                    "http://xsayang.fun"
                 ]
             }
         },
@@ -233,9 +233,8 @@
             "ext": {
                 "site": [
                     "http://tvpanpan.site",
-                    "http://www.xiaocgege.shop",
-                    "http://feimo.fun",
-                    "http://xiaocgege.shop"
+                    "https://www.mmpanpan.site",
+                    "http://feimo.fun"
                 ]
             }
         },
@@ -251,7 +250,7 @@
             "ext": {
                 "site": [
                     "http://mihdr.top",
-                    "http://www.miqk.cc",
+                    "https://sp.zzzy.shop",
                     "http://www.mihdr.top"
                 ]
             }
@@ -287,7 +286,7 @@
                 "site": [
                     "https://www.wexwp.cc",
                     "https://wexwp.cc",
-                    "https://2xiaopan.top",
+                    "https://www.2xiaopan.one",
                     "https://www.2xiaopan.top"
                 ]
             }
@@ -322,10 +321,7 @@
             "ext": {
                 "site": [
                     "http://38.76.197.172:16969",
-                    "http://103.45.162.207:20720",
-                    "http://xhban.xyz:20720",
-                    "http://154.222.27.33:20720",
-                    "http://109.244.63.150:16969"
+                    "http://xhban.xyz"
                 ]
             }
         },
