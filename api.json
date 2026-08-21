@@ -188,6 +188,45 @@
             "api": "./js/独播库.js"
         },
         {
+            "key": "123",
+            "name": "⛔二三┃旭叔",
+            "type": 3,
+            "api": "csp_PanWebShareCloud12345",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0,
+            "style": {
+                "type": "list",
+                "ratio": 1.433
+            },
+            "ext": "./json/123.json"
+        },
+        {
+            "key": "渡盘社",
+            "name": "🎯佰渡┃旭叔",
+            "type": 3,
+            "api": "csp_PanWebQu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0,
+            "style": {
+                "type": "list",
+                "ratio": 1.433
+            },
+            "ext": {
+                "url": "https://www.qupanshe.com"
+            }
+        },
+        {
+            "key": "逸搜",
+            "name": "✈️天益┃旭叔",
+            "type": 3,
+            "api": "csp_TianYiSo",
+            "changeable": 0
+        },
+        {
             "key": "小斑快映",
             "name": "📽快映┃旭叔",
             "type": 3,
@@ -430,45 +469,6 @@
             "name": "🧿夸搜┃旭叔",
             "type": 3,
             "api": "csp_QuPanSo",
-            "changeable": 0
-        },
-        {
-            "key": "123",
-            "name": "⛔二三┃旭叔",
-            "type": 3,
-            "api": "csp_PanWebShareCloud12345",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0,
-            "style": {
-                "type": "list",
-                "ratio": 1.433
-            },
-            "ext": "./json/123.json"
-        },
-        {
-            "key": "渡盘社",
-            "name": "🎯佰渡┃旭叔",
-            "type": 3,
-            "api": "csp_PanWebQu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0,
-            "style": {
-                "type": "list",
-                "ratio": 1.433
-            },
-            "ext": {
-                "url": "https://www.qupanshe.com"
-            }
-        },
-        {
-            "key": "逸搜",
-            "name": "🛩天益┃旭叔",
-            "type": 3,
-            "api": "csp_TianYiSo",
             "changeable": 0
         },
         {
