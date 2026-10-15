@@ -154,7 +154,7 @@
             "key": "逸搜",
             "name": "✈️天益┃旭叔",
             "type": 3,
-            "api": "csp_TianYiSo",
+            "api": "csp_TianYiSo1",
             "changeable": 0,
             "timeout": 60
         },
@@ -242,9 +242,9 @@
             "changeable": 0,
             "ext": {
                 "site": [
+                    "https://www.fmcf.fun",
                     "http://tvpanpan.site",
-                    "https://www.mmpanpan.site",
-                    "http://feimo.fun"
+                    "https://www.mmpanpan.site"
                 ]
             },
             "timeout": 60
@@ -260,10 +260,10 @@
             "changeable": 0,
             "ext": {
                 "site": [
-                    "https://www.2xiaozhan.top",
-                    "http://www.2xiaozhan.top",
                     "https://www.2xiaopan.one",
-                    "http://www.2xiaopan.one"
+                    "http://www.2xiaopan.one",
+                    "https://www.2xiaozhan.top",
+                    "http://www.2xiaozhan.top"
                 ]
             },
             "timeout": 60
